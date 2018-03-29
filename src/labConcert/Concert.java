@@ -1,4 +1,4 @@
-package concert;
+package labConcert;
 
 public class Concert {
     private String name;

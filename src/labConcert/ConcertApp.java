@@ -1,4 +1,4 @@
-package concert;
+package labConcert;
 
 public class ConcertApp {
     public static void main(String[] args){
